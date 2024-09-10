@@ -24,14 +24,14 @@ By downloading, using application. You agree to our terms of service. If you do 
 
 > ### Tiếng Việt
 > - Chúng tôi không chịu trách nhiệm cho bất kì nội dung nào của bạn hoặc nội dung mà bạn nhìn thấy trong quá trình sử dụng.
-> - Chúng tôi không chịu trách nhiệm cho bất kì thiệt hại nào đối với hệ thống máy tính và dữ liệu đám mây của bạn trong quá trình sử dụng do tải phần mềm từ bên thứ ba khác ngoài [GitHub chính thức](https://github.com/AnLaVN/FGL-FBTool) và [Website chính thức](https://anlavn.github.io/FGL-FBTool) hoặc lợi dụng lỗ hổng bảo mật phần mềm.
+> - Chúng tôi không chịu trách nhiệm cho bất kì thiệt hại nào đối với hệ thống máy tính và dữ liệu đám mây của bạn trong quá trình sử dụng do tải phần mềm từ bên thứ ba khác ngoài [GitHub chính thức](https://anlavn03.github.io/FGL-Tool) và [Website chính thức](https://anlavn03.github.io/FGL-Tool) hoặc lợi dụng lỗ hổng bảo mật phần mềm.
 > - Chúng tôi không bảo đảm rằng:
 >   - Ứng dụng sẽ đáp ứng các yêu cầu của bạn;
 >   - Ứng dụng sẽ có sẵn trên cơ sở không bị gián đoạn, kịp thời, an toàn hoặc không có lỗi;
 >
 > ### English
 > - We are not responsible for any of your content or the content you see during use.
-> - We are not responsible for any damage to your computer system and cloud data during use due to downloading software from third parties other than [Official GitHub](https://github.com/AnLaVN/FGL-FBTool) and [Official Website](https://anlavn.github.io/FGL-FBTool) or take advantage of software security holes.
+> - We are not responsible for any damage to your computer system and cloud data during use due to downloading software from third parties other than [Official GitHub](https://anlavn03.github.io/FGL-Tool) and [Official Website](https://anlavn03.github.io/FGL-Tool) or take advantage of software security holes.
 > - We do not warrant that:
 >    - The application will fulfill your requirements;
 >    - The application will be available on an uninterrupted, timely, secure or error-free basis;
