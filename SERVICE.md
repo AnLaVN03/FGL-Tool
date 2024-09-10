@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Terms of Service / Điều khoản Dịch vụ</h1>
-  <p align="center">Cập nhật gần nhất: 08/08/2024 13:40</p>
-  <p align="center">Last Updated: 08/08/2024 13:40</p>
+  <p align="center">Cập nhật gần nhất: 10/09/2024 11:00</p>
+  <p align="center">Last Updated: 10/09/2024 11:00</p>
   <br><br>
 </p>
 
