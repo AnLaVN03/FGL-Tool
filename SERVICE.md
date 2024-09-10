@@ -79,39 +79,9 @@ By downloading, using application. You agree to our terms of service. If you do 
 
 
 > ### Tiếng Việt
-> - Bạn bị nghiêm cấm sử dụng ứng dụng để [gian lận](#cheat-gian-lận) hoặc cho các mục đích bất hợp pháp. Chúng tôi đang cố gắng hết sức để ngăn chặn các hoạt động này, đồng thời cố gắng cung cấp trải nghiệm người dùng tốt nhất có thể. 
-> - Nếu bạn tìm thấy những người hoặc cộng đồng đang sử dụng ứng dụng để [gian lận](#cheat-gian-lận) hoặc bất kì hoạt động bất hợp pháp nào, vui lòng liên hệ cho chúng tôi thông qua [Máy chủ Discord](https://discord.gg/WYWMAFSEpu).
-> - Trong quá trình sử dụng, bạn phải tuân thủ QUY ĐỊNH NỘP BÀI ASSIGNMENT. Bạn bị CẤM sử dụng ứng dụng để [gian lận](#cheat-gian-lận) hoặc sử dụng vào bất kì mục đích bất hợp pháp nào, như đã nói trên.
 > - Bạn bị CẤM lạm dụng dịch vụ của ứng dụng với mục đích cố ý làm quá tải dịch vụ của ứng dụng hoặc vô hiệu hóa, phá hoại một hay nhiều dịch vụ của ứng dụng, bao gồm cả việc Spam yêu cầu dịch vụ trong khoảng thời gian ngắn. (Như email, upload ảnh, ...)
 > - Bạn bị CẤM sử dụng mã nguồn nhằm tái tạo lại ứng dụng, thay đổi mã nguồn nhằm làm ứng dụng hoạt động không chính xác.
 >
 > ### English
-> - You are strictly prohibited from using the app for [cheating](#cheat-gian-lận) or for illegal purposes. We're doing our best to prevent these activities and try to provide the best user experience possible.
-> - If you find people or communities who are using the app for [cheating](#cheat-gian-lận) or any other illegal activity, please contact us through [Discord server](https://discord.gg/WYWMAFSEpu).
-> - During use, you must comply with the ASSIGNMENT SUBSCRIPTION RULES. You are BANNED from using the app for [cheating](#cheat-gian-lận) or using it for any illegal purpose, as noted above.
 > - You are BANNED from abusing the app's services for the purpose of intentionally overloading the app's services or disabling or disrupting one or more of the app's services, including service request spam in the short time. (Like email, upload photos, ...)
 > - You are BANNED from using the source code to recreate the application, change the source code to make the application work incorrectly.
-
-
-
-<br>
-<p align="center">
-  <h2 align="center">Cheat-Gian lận</h2>
-</p>
-
-
-> ### Tiếng Việt
-> - Gian lận là hình thức lấy mã nguồn ứng dụng và sử dụng như là sản phẩm mình làm ra. Hình thức đó bao gồm những hành động như: 
->   - Copy thông tin trực tiếp từ trang web hay ứng dụng này mà không ghi rõ nguồn tham khảo trong tài liệu; 
->   - Gửi mã nguồn hoặc ứng dụng này như là thành quả cá nhân;
->   - Ăn trộm hay mua mã nguồn hoặc ứng dụng này của ai đó và gửi lên như là sản phẩm mình làm ra.
-> - Mọi tài nguyên copy hay điều chế từ bất cứ nguồn nào (VD: Package, Class, Method, Function, ...) phải được đặt trong cặp dấu nháy kép và in nghiêng, với thông tin tham khảo đầy đủ về nguồn tài liệu.
-> - Nhằm ngăn chặn triệt để hành vi gian lận, một số mã nguồn quan trọng và toàn bộ thư viện liên quan đều bị kiểm duyệt và không được công khai.
->
-> ### English
-> - Fraud is a form of taking the application source code and using it as a product. That form includes actions such as:
->    - Copy information directly from this website or application without specifying the source of the reference in the document;
->    - Submit the source code or this application as a personal achievement;
->    - Steal or buy someone else's source code or application and post it as your own work.
-> - All resources copied or modulated from any source (eg Package, Class, Method, Function, ...) must be enclosed in double quotes and italicized, with full reference information about the resource. Whether.
-> - In order to thoroughly prevent fraud, some important source code and all related libraries are censored and not made public.
