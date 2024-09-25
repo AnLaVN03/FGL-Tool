@@ -1,2 +1,2 @@
-6.0.3
+6.0.4
 https://github.com/AnLaVN03/FGL-Tool/releases/download/v6.0/main.exe
